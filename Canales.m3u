@@ -7,13 +7,19 @@ https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playerlist.m3u8
 https://mdstrm.com/audio/60a2745ff943100826374a70/icecast.audio
 
 #EXTINF:-1,Mitre
-http://buecrplb01.cienradios.com.ar/Mitre790.aac
-
-#EXTINF:-1,Mitre 2
 https://radiomm.000webhostapp.com/
-
-#EXTINF:-1,La 100
-http://buecrplb01.cienradios.com.ar/la100.aac
 
 #EXTINF:-1,Rivadavia
 https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac
+
+#EXTINF:-1,Popular San Luis
+http://134.209.220.139:8010/stream/1/
+
+#EXTINF:-1,Nuestra FM
+http://aliasdns.info:8080/stream/1/
+
+#EXTINF:-1,Aspen
+https://us-b5-p-e-kj2-audio.cdn.mdstrm.com/live-audio-aw/60a2745ff943100826374a70?aid=60106eadf34de307dd720e7b&pid=xox5BlfK6u3j3WCu8AqLXi1qft339rlm&sid=a1QKvXtKFajrgsnHxaEJ3XrizlBsvOlD&uid=mBhpzLzdk2pdt6DTEtnBsErSMmhYbCaz&es=us-b5-p-e-kj2-audio.cdn.mdstrm.com&ote=1627405858099&ot=ZmewjgvgKHls3iYEAXtvzQ&proto=https&pz=us&cP=128000&awCollectionId=60106eadf34de307dd720e7b&liveId=60a2745ff943100826374a70&referer=https%3A%2F%2Fradioarg.com%2F&propertyName=mediastream-player-aspen-pie
+
+#EXTINF:-1,Blue
+https://21933.live.streamtheworld.com/BLUE_FM_100_7AAC_SC
