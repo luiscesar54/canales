@@ -13,7 +13,7 @@ https://mdstrm.com/audio/60a2745ff943100826374a70/icecast.audio
 https://21933.live.streamtheworld.com/BLUE_FM_100_7AAC_SC
 
 #EXTINF:-1,Disney Arg
-https://18583.live.streamtheworld.com/DISNEY_ARG_BA_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_SC
 
 #EXTINF:-1,Rivadavia
 https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac
