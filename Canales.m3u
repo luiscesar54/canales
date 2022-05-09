@@ -6,6 +6,9 @@ https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playerlist.m3u8
 #EXTINF:-1,FM Municipal Lujan
 https://streaming01.radiosenlinea.com.ar/8254/stream
 
+#EXTINF:-1,Rivadavia video
+https://www.youtube.com/embed/UzuAfCFMjkE
+
 #EXTINF:-1,Mitre
 https://buecrplb01.cienradios.com.ar/Mitre790.aac
 
