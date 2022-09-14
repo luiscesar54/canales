@@ -9,6 +9,9 @@ https://streaming01.radiosenlinea.com.ar/8254/stream
 #EXTINF:-1,Mitre
 https://buecrplb01.cienradios.com.ar/Mitre790.aac
 
+#EXTINF:-1,CNN Radio Argentina
+https://unlimited2-ar.dps.live/cnn-ar/aac/icecast.audio
+
 #EXTINF:-1,ASPEN
 https://mdstrm.com/audio/60a2745ff943100826374a70/icecast.audio
 
