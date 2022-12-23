@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,Canal Orbe 21
+https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
+
 #EXTINF:-1,Canal 13 San Luis
 https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playerlist.m3u8
 
