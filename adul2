@@ -1,33 +1,58 @@
-EXTM3U
+#EXTM3U
 
-#EXTINF:-1,
+#EXTINF:-1,Canal Orbe 21
+https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
+
+#EXTINF:-1,livecams
 https://live.adultiptv.net/livecams.m3u8
-#EXTINF:-1, 
+#EXTINF:-1,milf
 https://live.adultiptv.net/milf.m3u8
-#EXTINF:-1, 
+#EXTINF:-1,bigdick
 https://live.adultiptv.net/bigdick.m3u8
-#EXTINF:-1, https://live.adultiptv.net/bigtits.m3u8
-#EXTINF:-1, https://live.adultiptv.net/fetish.m3u8
-#EXTINF:-1, https://live.adultiptv.net/pornstar.m3u8
-#EXTINF:-1, https://live.adultiptv.net/bigass.m3u8
-#EXTINF:-1, https://live.adultiptv.net/interracial.m3u8
-#EXTINF:-1, https://live.adultiptv.net/latina.m3u8
-#EXTINF:-1, https://live.adultiptv.net/pov.m3u8
-#EXTINF:-1, https://live.adultiptv.net/blowjob.m3u8
-#EXTINF:-1, https://live.adultiptv.net/teen.m3u8
-#EXTINF:-1, https://live.adultiptv.net/hardcore.m3u8
-#EXTINF:-1, https://live.adultiptv.net/cuckold.m3u8
-#EXTINF:-1, https://live.adultiptv.net/threesome.m3u8
-#EXTINF:-1, https://live.adultiptv.net/russian.m3u8
-#EXTINF:-1, https://live.adultiptv.net/lesbian.m3u8
-#EXTINF:-1, https://live.adultiptv.net/rough.m3u8
-#EXTINF:-1, https://live.adultiptv.net/gangbang.m3u8
-#EXTINF:-1, https://live.adultiptv.net/anal.m3u8
-#EXTINF:-1, https://live.adultiptv.net/compilation.m3u8
-#EXTINF:-1, https://live.adultiptv.net/brunette.m3u8
-#EXTINF:-1, https://live.adultiptv.net/blonde.m3u8
-#EXTINF:-1, https://live.adultiptv.net/gay.m3u8
-#EXTINF:-1, https://live.adultiptv.net/asian.m3u8
+#EXTINF:-1,bigtits
+https://live.adultiptv.net/bigtits.m3u8
+#EXTINF:-1,fetish
+https://live.adultiptv.net/fetish.m3u8
+#EXTINF:-1,pornstar
+https://live.adultiptv.net/pornstar.m3u8
+#EXTINF:-1,bigass
+https://live.adultiptv.net/bigass.m3u8
+#EXTINF:-1,interracial
+https://live.adultiptv.net/interracial.m3u8
+#EXTINF:-1,latina
+https://live.adultiptv.net/latina.m3u8
+#EXTINF:-1,pov
+https://live.adultiptv.net/pov.m3u8
+#EXTINF:-1,blowjob
+https://live.adultiptv.net/blowjob.m3u8
+#EXTINF:-1,teen
+https://live.adultiptv.net/teen.m3u8
+#EXTINF:-1,hardcore
+https://live.adultiptv.net/hardcore.m3u8
+#EXTINF:-1,cuckold
+https://live.adultiptv.net/cuckold.m3u8
+#EXTINF:-1,threesome
+https://live.adultiptv.net/threesome.m3u8
+#EXTINF:-1,russian
+https://live.adultiptv.net/russian.m3u8
+#EXTINF:-1,lesbian
+https://live.adultiptv.net/lesbian.m3u8
+#EXTINF:-1,rough
+https://live.adultiptv.net/rough.m3u8
+#EXTINF:-1,gangbang
+https://live.adultiptv.net/gangbang.m3u8
+#EXTINF:-1,anal
+https://live.adultiptv.net/anal.m3u8
+#EXTINF:-1,compilation
+https://live.adultiptv.net/compilation.m3u8
+#EXTINF:-1,brunette
+https://live.adultiptv.net/brunette.m3u8
+#EXTINF:-1,blonde
+https://live.adultiptv.net/blonde.m3u8
+#EXTINF:-1,gay
+https://live.adultiptv.net/gay.m3u8
+#EXTINF:-1,asian
+https://live.adultiptv.net/asian.m3u8
 
 #EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",Adult 4K: VOD2
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
